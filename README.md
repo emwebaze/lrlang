@@ -1,3 +1,14 @@
+# Focus on writing good documentation
+{: .fs-9 }
+
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+{: .fs-6 .fw-300 }
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
 The Workshop on Cultures of AI and AI for Culture to be held _virtually_ as part of  [NeurIPS 2022](https://nips.cc/) on **December 9**. This is a cross-disciplinary workshop with experts in AI/ML and social sciences discussing how AI influences culture and how culture influences AI.  
 
 
