@@ -2,12 +2,15 @@ title: Low resource language workshop
 description: African language workshop
 remote_theme: pmarsceill/just-the-docs
 nav_enabled: false
+search_enabled: true
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/just-the-docs.png"
+
 # remote_theme: pages-themes/primer@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
----
-layout: default
-title: Home
-nav_enabled: false
----
