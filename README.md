@@ -1,2 +1,3 @@
-# lrlang
-Demo test repo
+layout: page
+title: "About"
+permalink: /about
