@@ -1,6 +1,6 @@
 title: Low resource language workshop
 description: African language workshop
-remote_theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 nav_enabled: false
 search_enabled: false
 
