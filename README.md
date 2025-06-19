@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Focus on writing good documentation
 {: .fs-9 }
 
