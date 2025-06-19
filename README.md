@@ -1,5 +1,5 @@
 ---
-layout: trysha
+layout: default
 title: Home
 ---
 
