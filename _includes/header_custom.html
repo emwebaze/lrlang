@@ -1,15 +1,23 @@
-<link rel="stylesheet" href="/lrlang/assets/navbar.css">
+<link rel="stylesheet" href="{{ 'assets/navbar.css' | relative_url }}">
 <nav class="site-nav">
-  <a href="/" class="site-logo">
-    <img src="/lrlang/assets/images/sblogo.png" alt="Site Logo" />
-    LRLang
-  </a>
-  <ul class="site-nav-list">
-    <li><a href="/" class="site-nav-link">Home</a></li>
-    <li><a href="/about/" class="site-nav-link">About</a></li>
-    <li><a href="/schedule/" class="site-nav-link">Schedule</a></li>
-    <li><a href="/panels/" class="site-nav-link">Panels</a></li>
-    <!-- Add more nav items as needed -->
-  </ul>
+  <div class="site-logo">
+    <div class="site-logo-row">
+      <img src="{{ '/assets/images/sblogo.png' | relative_url }}" alt="Site Logo" />
+      <span class="site-logo-title">AbiHack 2025</span>
+    </div>
+    <span class="site-logo-subtitle">powered by Google</span>
+  </div>
+  <div class="site-nav-center">
+    <ul class="site-nav-list">
+      <li><a href="/about/" class="site-nav-link">About</a></li>
+      <li><a href="/categories/" class="site-nav-link">Categories</a></li>
+      <li><a href="/prizes/" class="site-nav-link">Prizes</a></li>
+      <li><a href="/sponsors/" class="site-nav-link">Sponsors</a></li>
+    </ul>
+  </div>
+  <div class="site-nav-actions">
+    <button class="lang-btn">FR</button>
+    <a href="/register/" class="register-btn">Register Now</a>
+  </div>
 </nav>
 <div class="navbar-spacer"></div> 
