@@ -1,6 +1,6 @@
 title: Low resource language workshop
-url: https://emwebaze.github.io/lrlang/
-baseurl: /lrlang/
+url: "https://emwebaze.github.io/lrlang/"
+baseurl: "/lrlang/"
 description: African language workshop
 remote_theme: pmarsceill/just-the-docs
 nav_enabled: false
