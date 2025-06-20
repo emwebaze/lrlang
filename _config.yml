@@ -1,6 +1,7 @@
 title: Low resource language workshop
-url: "https://emwebaze.github.io/lrlang/"
 baseurl: "/lrlang/"
+url: "https://emwebaze.github.io/lrlang/"
+
 description: African language workshop
 remote_theme: pmarsceill/just-the-docs
 nav_enabled: false
@@ -16,3 +17,6 @@ heading_anchors: true
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+include:
+  - assets
+  - assets/images
